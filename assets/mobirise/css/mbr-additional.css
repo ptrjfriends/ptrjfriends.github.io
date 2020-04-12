@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .navbar-brand a {
+  font-size: 20px;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1.2em;
+  color: #333333;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #65b7e9;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #53afe6;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #333333;
+}
+#dropdown-menu-2 A {
+  font-size: 15px;
+}
+#header1-8 P {
+  font-size: 24px;
+  color: #ffffff;
+}
+#image1-9 SMALL {
+  text-align: center;
+}
+#msg-box4-a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-a .btn {
+  font-size: 16px;
+}
+#video1-d SMALL {
+  text-align: center;
+  color: #f7da64;
+}
